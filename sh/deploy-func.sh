@@ -1,2 +1,2 @@
 #!/bin/bash
-sls --aws-profile serverless-stack deploy function -f $1
+sls deploy function -f $1
